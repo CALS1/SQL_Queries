@@ -5,4 +5,4 @@ habilidades con ejercicios de álgebra relacional, subconsultas y funciones de v
 - Comprender las consultas distribuidas
 - Uso de expresiones regulares en SQL
 - Reforzar conceptos de álgebra relacional
-- Manejar funciones de ventana
+- Manejo y creacion de tablas (bases de datos)
